@@ -1,0 +1,9 @@
+/Users/jhonasttan/eclipse-workspace/Cucumber & Java Automation Testing/nopCommerceV2/src/test/java/com/nopcommerce/testCases/BaseClass.java
+/Users/jhonasttan/eclipse-workspace/Cucumber & Java Automation Testing/nopCommerceV2/src/test/java/com/nopcommerce/testCases/TC_LoginTest_001.java
+/Users/jhonasttan/eclipse-workspace/Cucumber & Java Automation Testing/nopCommerceV2/src/test/java/com/nopcommerce/pageObjects/LoginPage.java
+/Users/jhonasttan/eclipse-workspace/Cucumber & Java Automation Testing/nopCommerceV2/src/test/java/com/nopcommerce/utilities/Reporting.java
+/Users/jhonasttan/eclipse-workspace/Cucumber & Java Automation Testing/nopCommerceV2/src/test/java/com/nopcommerce/utilities/XLUtils.java
+/Users/jhonasttan/eclipse-workspace/Cucumber & Java Automation Testing/nopCommerceV2/src/test/java/com/nopcommerce/testCases/TC_LoginDDT_002.java
+/Users/jhonasttan/eclipse-workspace/Cucumber & Java Automation Testing/nopCommerceV2/src/test/java/com/nopcommerce/testCases/TC_AddCustomerTest_003.java
+/Users/jhonasttan/eclipse-workspace/Cucumber & Java Automation Testing/nopCommerceV2/src/test/java/com/nopcommerce/pageObjects/AddcustomerPage.java
+/Users/jhonasttan/eclipse-workspace/Cucumber & Java Automation Testing/nopCommerceV2/src/test/java/com/nopcommerce/utilities/ReadConfig.java
